@@ -1,6 +1,6 @@
 # Market place
 
-This is miniapp of ecomerce, use MERN stack. This is the backend
+This is miniapp of ecomerce, use MERN stack. This is the frontend
 
 ## Installation
 
